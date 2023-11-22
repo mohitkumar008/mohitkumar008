@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohit Kumar
 - 👀 I have experience in CORE PHP, Laravel, HTML, CSS, JavaScript, jQuery, Web Development, Bootstrap.
-- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- mohitkumar0182000@gmail.com
 
